@@ -1,7 +1,7 @@
 # SNMFNet
  The python code of SNMFNet introduced in the following paper
  
- 	Heart sound classification using the SNMFNet classifier 
+ [Heart sound classification using the SNMFNet classifier](https://iopscience.iop.org/article/10.1088/1361-6579/ab45c8/meta)
 
 ### Citation
 If you find this algorithm useful in your research, please consider citing:
